@@ -38,9 +38,7 @@ Previously worked at [TipTip](https://tiptip.id/), [Kodefox](https://kodefox.com
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </span>
 
-## 📫 Get In Touch - 🟢 Open to Work!
-
-I'm actively seeking new opportunities and would love to connect!
+## 📫 Get In Touch!
 
 - **Email:** rvlewerissa@gmail.com
 - **LinkedIn:** [linkedin.com/in/vittolewerissa](https://www.linkedin.com/in/vittolewerissa/)
