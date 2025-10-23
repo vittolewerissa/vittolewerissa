@@ -7,16 +7,6 @@ I try to make the world better by making quality software.
 
 Previously worked at [TipTip](https://tiptip.id/), [Kodefox](https://kodefox.com/), [Phantom Network](https://www.phantom.sh/), and GDIS.
 
-### Professional Experience Highlights
-- Proven ability to scale applications from startup MVPs to enterprise-level platforms
-- Consistent delivery of sprint commitments with 1-4 week turnaround times
-- Cross-industry expertise spanning NFT platforms, high-scale ticketing systems, and enterprise software solutions
-- Strong background in team leadership, mentoring, and knowledge transfer initiatives
-
-### Impact & Results
-- Architected and shipped 15+ product features across 5 applications at scale
-- Built and maintained applications handling 1M+ API requests/day with 99.8% crash-free sessions
-
 ## Tech Stack
 
 #### Languages
