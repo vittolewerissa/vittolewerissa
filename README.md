@@ -1,34 +1,23 @@
 # 👋🏼 Hi, I'm Vitto!
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 
 
 ### Software Engineer based in Southeast Asia / APAC (Indonesia)
 
-I have extensive experience building scalable web applications with React.js and TypeScript in agile environments. Passionate about performance optimization, clean architecture, and delivering high-impact user experiences.
+I've built scalable applications for organizations ranging from enterprise companies to early-stage startups. Passionate about performance optimization, engineering excellence, and delivering high-impact user experiences.
 
 I believe in making the world a little better through quality software.
 
-## Projects
-
-- 🎯 [**hbt**](https://github.com/vittolewerissa/hbt) — CLI-based habit tracker built with Go and BubbleTea
-
-## Currently Exploring
-
-- 🐹 **Go** — Building scalable backend services with a focus on performance and concurrency
-- 🐍 **Python** — Diving into AI/ML to build intelligent applications
-- 🦀 **Rust** — Learning systems-level programming for performance-critical and memory-safe applications
-- 🔗 **Web3** — Developing frontend interfaces for decentralized apps and blockchain integrations
-
 ## Connect
 
-- **Email:** rvlewerissa@gmail.com
 - **LinkedIn:** [linkedin.com/in/vittolewerissa](https://www.linkedin.com/in/vittolewerissa/)
 - **Personal Website:** [vittolewerissa.com](https://vittolewerissa.com)
 
